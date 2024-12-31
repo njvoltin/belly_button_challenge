@@ -16,6 +16,5 @@ The features on the dashboard include
   Displays metadata such as age, gender, and other details of the selected sample.
 4. Interactive Dropdown Menu:
   Updates all visualizations when a new sample is selected.
-  Deployed Application:
 
 Hosted on GitHub Pages for easy access.
